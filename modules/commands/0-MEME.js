@@ -2,7 +2,7 @@ module.exports.config = {
   name: "meme",
   version: "2.0.5",
   hasPermssion: 0,
-  credits: "SHANKAR SUMAN",
+  credits: "DK KARTIK",
   description: "photo",
   commandCategory: "Fun picture ",
   usages: "type meme",
