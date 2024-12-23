@@ -2,7 +2,7 @@ module.exports.config = {
   name: "botgc",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHANKAR SUMAN",
+  credits: "DK KARTIK",
   description: "Add user to specific group using command",
   commandCategory: "group",
   usePrefix: false,
