@@ -23,7 +23,7 @@ module.exports.config = {
   name: "antichangeinfobox",
   version: "1.0.0",
   hasPermission: 1, // 0 = Everyone, 1 = Admins, 2 = Bot Owner
-  credits: "SHANKAR-PROJECT",
+  credits: "DHARMENDRA-PROJECT",
   description: "Locks group name, nickname, and avatar based on commands.",
   commandCategory: "Admin",
   usages: "!antichangeinfobox <name/nickname/avt> <on/off>",
