@@ -2,7 +2,7 @@ module.exports.config = {
   name: "pair",
   version: "1.0.0", 
   hasPermssion: 0,
-  credits: "SHANKAR",
+  credits: "DHARMENDRA",
   description: "0Pairing",
   usePrefix: false,
   commandCategory: "Love", 
