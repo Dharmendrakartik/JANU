@@ -6,7 +6,7 @@ module.exports.config = {
     name: "boxinfo",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "SHANKAR PROJECT",
+    credits: "DK PROJECT",
     description: "View your box information",
     commandCategory: "Box chat",
     usages: "",
