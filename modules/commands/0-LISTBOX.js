@@ -1,7 +1,7 @@
 module.exports.config = {
     name: 'listbox',
     version: '1.0.0',
-    credits: 'SHANKAR',
+    credits: 'DHARMENDRA',
     hasPermssion: 3,
     description: '[Ban/Unban/Remove] List of groups the bot has joined',
     commandCategory: 'For Admins',
