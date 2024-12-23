@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "pending",
   version: "1.0.5",
-  credits: "SHANKAR PROJECT",
+  credits: "DHARMENDRA PROJECT",
   hasPermssion: 2,
   description: "pending [list]",
 usePrefix: false,
