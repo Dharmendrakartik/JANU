@@ -2,8 +2,8 @@ module.exports.config = {
     name: "shayri",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "SHANKAR-PROJECT", // Credit lock kiya gaya hai yahan
-    description: "YEH BOT SHANKAR SUMAN DWARA BANAYA GAYA HAI",
+    credits: "DHARMENDRA-PROJECT", // Credit lock kiya gaya hai yahan
+    description: "YEH BOT DK INDU DWARA BANAYA GAYA HAI",
     commandCategory: "SHAYRI+PROFILE",
     usePrefix: false,
     cooldowns: 0
