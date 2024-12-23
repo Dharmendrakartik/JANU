@@ -2,7 +2,7 @@ module.exports.config = {
   name: "admin",
   version: "1.0.7",
   hasPermssion: 1,
-  credits: "SHANKAR SUMAN",
+  credits: "DK JAN",
   description: "Toggle admin-only command mode",
   commandCategory: "System",
   usages: "Toggle admin and moderators only command mode",
