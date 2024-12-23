@@ -2,7 +2,7 @@ module.exports.config = {
   name: "out",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "SHANKAR",
+  credits: "DHARMENDRA",
   description: "समूह छोड़ें",
   commandCategory: "समूह छोड़ना",
   usages: "[tid]",
