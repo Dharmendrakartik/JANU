@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "offbot",
 	version: "1.0.0",
 	hasPermission: 0,
-	credits: "SHANKAR, /* Please do not change the credit :) */
+	credits: "DHARMENDRA, /* Please do not change the credit :) */
 	description: "Turn off the Bot",
 	commandCategory: "System",
 	cooldowns: 0
