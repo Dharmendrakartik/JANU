@@ -2,7 +2,7 @@ module.exports.config = {
   name: "outall",
   version: "1.0.0", 
   hasPermssion: 2,
-  credits: "SHANKAR", /* कृपया क्रेडिट न बदलें :) */
+  credits: "DHARMENDRA", /* कृपया क्रेडिट न बदलें :) */
   description: "सभी समूह से बाहर निकालें",
   commandCategory: "एडमिन-बॉट सिस्टम",
   usages: "outall [Text]",
