@@ -5,7 +5,7 @@ module.exports.config = {
     name: "sendnoti",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "SHANKAR SUMAN",
+    credits: "DK KARTIK",
     description: "Notification All Groups",
     usePrefix: true,
     commandCategory: "GROUP",
