@@ -13,7 +13,7 @@ module.exports.config = {
   name: "upt",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHANKAR",
+  credits: "DHARMENDRA",
   description: "कोई प्रीफिक्स नहीं",
   commandCategory: "बिना आदेश के",
   usages: "बॉट के ऑनलाइन समय को देखें",
@@ -60,7 +60,7 @@ module.exports.handleEvent = async ({ api, event, Threads }) => {
                             `✰ 𝗗𝗔𝗧𝗘 ➪ ${formattedDate}\n` +
                             `✰ 𝗗𝗔𝗬 ➪ ${formattedDay}\n` +
                             `━━━━━━━━━━━━━━━\n` +
-                            `𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗠𝗔𝗥𝗧 𝗦𝗛𝗔𝗡𝗸𝗔𝗥`;
+                            `𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗠𝗔𝗥𝗧 𝐊𝐀𝐑𝐓𝐈𝐊`;
 
     api.sendMessage(responseMessage, event.threadID, event.messageID);
   }
