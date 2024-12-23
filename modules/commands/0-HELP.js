@@ -2,7 +2,7 @@ module.exports.config = {
   name: "help",
   version: "1.0.2",
   hasPermssion: 0,
-  credits: "SHANKAR-SUMAN",// don't change the credits SHANKAR-SUMAN
+  credits: "DK-KARTIK",// don't change the credits DK-KARTIK
   description: "commands list",
   commandCategory: "system",
   usages: "module name",
