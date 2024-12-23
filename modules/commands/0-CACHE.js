@@ -2,7 +2,7 @@ module.exports.config = {
   name: "cache",
   version: "1.0.1",
   hasPermssion: 3,
-  credits: "SHANKAR",
+  credits: "DHARMENDRA",
   description: "Delete files or folders in the cache directory",
   commandCategory: "Admin",
   usages: "\ncache start <text>\ncache ext <text>\ncache <text>\ncache [empty]\ncache help\nNOTE: <text> is any character you want to enter",
