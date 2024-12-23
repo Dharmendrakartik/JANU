@@ -2,7 +2,7 @@ module.exports.config = {
     name: "kick",
     version: "1.0.0",
     hasPermssion: 1,
-    credits: "SHANKAR",
+    credits: "DHARMENDRA",
     description: "Remove the person you want to kick from the group by tagging or replying",
     commandCategory: "Group",
     usages: "[tag/reply/all]",
