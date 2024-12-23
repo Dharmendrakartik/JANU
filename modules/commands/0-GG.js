@@ -2,7 +2,7 @@ module.exports.config = {
     name: "gg",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "SHANKAR",
+    credits: "DHARMENDRA",
     description: "Search results on Google!",
     commandCategory: "User",
     usages: "google [Text]",
