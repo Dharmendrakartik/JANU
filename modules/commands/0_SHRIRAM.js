@@ -3,7 +3,7 @@ module.exports.config = {
   name: "ram",
     version: "2.1.1",
   hasPermssion: 0,
-  credits: "SHANKAR SUMAN", 
+  credits: "DK KARTIK", 
   description: "Just Respond",
   commandCategory: "no prefix",
     cooldowns: 5, 
