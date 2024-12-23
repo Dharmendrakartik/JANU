@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "app",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "SHANKAR SUMAN",
+	credits: "DK KARTIK",
 	description: "Obtain new cookie/appstate.",
 	commandCategory: "Tiện ích",
 	usages: "",
