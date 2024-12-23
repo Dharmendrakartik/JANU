@@ -2,7 +2,7 @@ module.exports.config = {
   name: "prefix",	
   version: "2.0.0", 
   hasPermssion: 1,
-  credits: "SHANKAR",
+  credits: "DHARMENDRA",
   description: "संदेश", 
   commandCategory: "किसी आदेश की आवश्यकता नहीं है",
   usages: "¹",
