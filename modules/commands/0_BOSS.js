@@ -2,7 +2,7 @@ const fs = require("fs");
 
 module.exports.config = {
 
-  name: "boss",
+  name: "DHARMENDRA KARTIK",
 
     version: "1.0.1",
 
@@ -26,7 +26,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 
   var { threadID, messageID } = event;
 
-  if (event.body.indexOf("DHARMENDRA")>=0 || (event.body.indexOf("@dk Indu")>=0 || (event.body.indexOf("shankar")>=0 || (event.body.indexOf("Boss")>=0)))) {
+  if (event.body.indexOf("Dharmendra")>=0 || (event.body.indexOf("@Dk Indu")>=0 || (event.body.indexOf("Dharmendra")>=0 || (event.body.indexOf("Dharmendra")>=0)))) {
 
     var msg = {
 
