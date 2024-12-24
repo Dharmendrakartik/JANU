@@ -1,4 +1,4 @@
-# SHANKAR PROJECT:
+# 𝐃𝐇𝐀𝐑𝐌𝐄𝐍𝐃𝐑𝐀 𝐏𝐑𝐎𝐉𝐄𝐂𝐓:
 
 🎆
 
@@ -8,7 +8,7 @@
 This project is no longer being developed because the project owner lacks high security capabilities, leading to potential security vulnerabilities. Therefore, the project will be permanently suspended.
 
 Special Thanks: 
-![image](https://github.com/SHANKAR-PROJECT/fca-smart-shankar)
+![image](https://github.com/Dharmendrakartik/JANU.git)
 
 ## Important !
 
@@ -16,36 +16,36 @@ This package require NodeJS 14.17.0 to work properly.
 
 ## Notification !
 
-Original Project(Deprecated): https://github.com/SHANKAR-PROJECT/fca-smart-shankar
+Original Project(Deprecated): https://github.com/DHARMENDRA-PROJECT/fca-smart-DK
 
 
-SHANKAR-PROJECT(22/11/2024)
+DHARMENDRA-PROJECT(22/11/2024)
 
 ## Support For : 
 
 + Support English, India !,
 + All bot if using listenMqtt first.
 
-# fca-smart-shankar ChatBot Messenger
+# fca-smart-𝐃𝐡𝐚𝐫𝐦𝐞𝐧𝐝𝐫𝐚-ChatBot Messenger
 
 ```bash
-npm i fca-smart-shankar
+npm i fca-smart-dharmendra
 ```
 or
 ```bash
-npm install fca-smart-shankar
+npm install fca-smart-dharmendra
 ```
 
 ```bash
-npm install fca-smart-shankard@latest
+npm install fca-smart-dharmendrad@latest
 ```
 and
 ```bash
-npm i fca-smart-shankar@latest
+npm i fca-smart-dharmendra@latest
 ```
 
-## SHANKAR PROJECT
+## 𝖣𝖧𝖠𝖱𝖬𝖤𝖭𝖣𝖱𝖠 𝖯𝖱𝖮𝖩𝖤𝖢𝖳
 
 ## FACEBOOK 
 
-FACEBOOK => [Link](https://www.facebook.com/shankar.suman.98622733)
+FACEBOOK => [Link](https://www.facebook.com/profile.php?id=100084396223713&mibextid=ZbWKwL)
